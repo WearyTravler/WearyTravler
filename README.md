@@ -7,8 +7,8 @@
 - 📫 How to reach me: X/Twitter/Discord
 - ⚡ Fun fact: ur mom
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=WearyTravler&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WearyTravler&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WearyTravler&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WearyTravler&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WearyTravler&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=WearyTravler&theme=blue-green&hide_border=true)
