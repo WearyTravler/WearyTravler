@@ -1,16 +1,14 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my Bachelor's Degree at SANs
+- 🌱 I’m currently learning on CodeCrafters with whatever they teach
+- 👯 I’m looking to collaborate on anything related to Cyber Security
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about Cyber Security
+- 📫 How to reach me: X/Twitter/Discord
+- ⚡ Fun fact: ur mom
 
-<!--
-**WearyTravler/WearyTravler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=WearyTravler&theme=default&hide_border=true)
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WearyTravler&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WearyTravler&theme=default&show_icons=true&hide_border=true&count_private=true)
