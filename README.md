@@ -1,8 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on my Associates at Rose State College, planning on attending WGU in the future.
-- 🌱 I’m currently learning on CodeCrafters with whatever they teach
+- 🔭 WGU Bachelors
+- 🌱 Learning one thing at a time
 - 👯 I’m looking to collaborate on anything related to Cyber Security/Comp Sci/Data Science
-- 🤔 I’m looking for help with a mentor? Ehhh.
 - 💬 Ask me about Cyber Security
 - 📫 How to reach me: X/Discord/LinkedIn
 - ⚡ Fun fact: I think I found my flow, meaning I can focus now on what matters.
